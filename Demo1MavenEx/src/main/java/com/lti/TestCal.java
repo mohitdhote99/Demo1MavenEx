@@ -5,6 +5,6 @@ public class TestCal {
 		Calculator c =new Calculator();
 		int myres = c.addNos(200,300,"mul");
 		System.out.println("Your result is "+myres);
-		System.out.println("github     ");
+		System.out.println("github");
 	}
 }
